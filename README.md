@@ -1,20 +1,16 @@
 # SpreeScrollToTop
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/spree_scroll_to_top`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Test
-
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'spree_scroll_to_top'
+gem 'spree_scroll_to_top', :git => 'https://github.com/2bedigital/spree_scroll_to_top', :branch => 'master'
 ```
 
 And then execute:
 
-    $ bundle
+    $ bundle exec rails g spree_scroll_to_top:install
 
 Or install it yourself as:
 
