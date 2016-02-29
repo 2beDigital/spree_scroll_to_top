@@ -18,7 +18,7 @@ a#link_to_top:hover, a#link_to_top:focus{
    position:fixed;
    bottom:0;
    right:6%;
-   z-index:100;
+   z-index:2;
    font-size:24px;
    border-top-left-radius:3px;
    border-top-right-radius:3px;
