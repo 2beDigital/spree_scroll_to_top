@@ -19,7 +19,7 @@ a#link_to_top:hover, a#link_to_top:focus{
    bottom:0;
    right:6%;
    z-index:2;
-   font-size:24px;
+   font-size:14px;
    border-top-left-radius:3px;
    border-top-right-radius:3px;
    visibility: hidden;
@@ -46,8 +46,5 @@ a#link_to_top:hover, a#link_to_top:focus{
     ul#to_top {
       margin-right: 0px;
       margin-bottom: 100px;
-    }
-    .scroll-top {
-      font-size: 14px;
     }
 }
